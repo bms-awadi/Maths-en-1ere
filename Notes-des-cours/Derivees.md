@@ -79,7 +79,7 @@ Est-ce une composition (fonction dans fonction) ?
 ║                                                                ║
 ║  2. CONSTANTE × FONCTION : (k·U)' = k·U'                       ║
 ║                                                                ║
-║  3. PUISSANCE          : [U^n]' = n·U^(n-1)·U'                ║
+║  3. PUISSANCE          : [U^n]' = n·U^(n-1)·U'                 ║
 ║                                                                ║
 ║  4. RACINE CARRÉE      : [√U]' = U'/(2√U)                      ║
 ║                                                                ║
@@ -89,9 +89,9 @@ Est-ce une composition (fonction dans fonction) ?
 ║                                                                ║
 ║  7. COMPOSÉE (CHAÎNE)  : [g(U)]' = g'(U)·U'                    ║
 ║                                                                ║
-║  8. CAS SIMPLE : PUISSANCE    x^n → nx^(n-1)                  ║
+║  8. CAS SIMPLE : PUISSANCE    x^n → nx^(n-1)                   ║
 ║                                                                ║
-║  9. CAS SIMPLE : RACINE       √x → 1/(2√x)                    ║
+║  9. CAS SIMPLE : RACINE       √x → 1/(2√x)                     ║
 ║                                                                ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
